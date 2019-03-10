@@ -27,7 +27,7 @@
             <span style="color:#2EC0E8">2006 - 2009</span>
             <br><i>Media College Amsterdam -</i></br>
             </div>
-            
+        
             <div class="col-sm-4 text-left">
             <span style="color:#008DB5"><h3>Grafisch Vormgeving</h3></span>
             <span style="color:#2EC0E8">2009-2012</span>
