@@ -23,9 +23,16 @@
          </div>
                 <div class="col-sm-12">
                 <hr class="primary"></hr>
+                <p>Hoi ik ben Jeroen een sportieve en ambitieuze man van 29 jaar oud, die ervan houdt om het maximale eruit te halen in zowel sport als tijdens het werk. 
+                    In mijn vrije tijd ben ik vaak te vinden in de sportschool. en kickboks ik 3 a 4 keer in de week en hou ik van goede films en boeken. 
+                    Als het om mijn werk gaat ben ik een gedreven persoon waarin ik de wil heb om mezelf te blijven ontwikkelen en aan te passen aan de continue veranderingen uit mijn vakgebied, 
+                    hierdoor hou ik mij dagelijks bezig met wat er speelt op het gebied van technologie, design en development en speel hierop in door nieuwe programma’s te leren 
+                    wanneer ik deze nodig acht te hebben. De afgelopen jaren is mijn passie steeds meer gegroeid naar het ontwerpen van online commerciële uitingen, 
+                    hierbij denkend aan het ontwikkelen van websites tot applicaties.
+                </p>
                 <p>Gedurende mijn periode als CEB (Creatieve eind baas) heb ik aan diverse offline/online projecten gewerkt. 
                     Voor een kijkje in mijn portfolio verwijs ik u graag naar mijn portfolio gedeelte.
-                Mocht u interresse hebben om met mij samen te werken dan kunt u mij bereiken op het onderstaande nummer, of een mail sturen.</p>
+                    Mocht u interresse hebben om met mij samen te werken dan kunt u mij bereiken op het onderstaande nummer, of een mail sturen.</p>
                   <ul class="list-inline">
                         <li>
                         <h5>Telefoon nummer:</h5>
