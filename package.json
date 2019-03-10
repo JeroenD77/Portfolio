@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^3.0.2",
+    "minimatch": "^3.0.4"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "watch": "gulp watch",
+    "build": "gulp build"
+  }
+}

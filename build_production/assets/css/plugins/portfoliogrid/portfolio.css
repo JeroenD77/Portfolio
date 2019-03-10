@@ -1,0 +1,155 @@
+  /* =========================================================== 
+      07. DTB PORTFOLIO HOVERS seven TEXT
+  ============================================================ */
+  .atom-work-item .desc7 {
+    position: absolute;
+    top: 10%;
+    left: 150px;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .atom-work-item .desc7 h5 {
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+    word-spacing: 3px;
+    color: #fff;
+  }
+  .atom-work-item .desc7 p {
+    text-transform: capitalize;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+  }
+  /* =========================================================== 
+      07. DTB PORTFOLIO HOVERS seven TEXT END
+  ============================================================ */
+  /* =========================================================== 
+      07. DTB PORTFOLIO HOVERS seven
+  ============================================================ */
+  .hover-seven .atom-work-item a:after {
+    position: absolute;
+    content: '';
+    top: 0px;
+    right: -5px;
+    left: 0px;
+    bottom: -1px;
+    transition: all 0.3s ease 0.1s;
+    background-color:rgba(97, 98, 97, 0.8);
+    background-repeat: no-repeat;
+    opacity: 0;
+  }
+  .hover-seven .atom-work-item img {
+    transition: all 0.5s ease 0s;
+  }
+  .hover-seven .atom-work-item .desc7 {
+    text-align: left;
+  }
+  .hover-seven .atom-work-item .desc7 h5,
+  .hover-seven .atom-work-item .desc7 p {
+    transition: all 0.3s ease 0.2s;
+    opacity: 0;
+  }
+  .hover-seven .atom-work-item .desc7 h5 {
+    transform: translateY(60%);
+  }
+  .hover-seven .atom-work-item .desc7 p {
+    transform: translateY(-60%);
+  }
+  .hover-seven .atom-work-item:hover a:after {
+    opacity: 1;
+  }
+  .hover-seven .atom-work-item:hover img {
+    transform: scale(1.55, 1.55);
+  }
+  .hover-seven .atom-work-item:hover h5,
+  .hover-seven .atom-work-item:hover p {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .no-gutter {
+    padding: 0;
+  }
+  @media screen and (max-width: 426px){
+  .hover-seven .atom-work-item a:after{
+    background-color:rgba(97, 98, 97, 0.8);
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left: 0; 
+  }
+  .hover-seven .atom-work-item .desc7 h5,
+  .hover-seven .atom-work-item .desc7 p {
+    opacity: 1;
+  }
+  .hover-seven .atom-work-item .desc7 h5 {
+    transform: translateY(0);
+  }
+  .hover-seven .atom-work-item .desc7 p {
+    transform: translateY(0);
+  }
+  }
+  @media screen and (min-width: 480px) and (max-width: 1024px){
+   .hover-seven .atom-work-item a:after{
+    background-color:rgba(97, 98, 97, 0.8);
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+    top:0; 
+  } 
+  .hover-seven .atom-work-item .desc7 h5,
+  .hover-seven .atom-work-item .desc7 p {
+    opacity: 1;
+  }
+  .hover-seven .atom-work-item .desc7 h5 {
+    transform: translateY(0);
+  }
+  .hover-seven .atom-work-item .desc7 p {
+    transform: translateY(0);
+  }
+  }
+  /* =========================================================== 
+      07. DTB PORTFOLIO HOVERS seven TEXT
+  ============================================================ */
+  .atom-work-item .desc7 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .atom-work-item .desc7 h5 {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 700;
+    word-spacing: 3px;
+    color: #fff;
+  }
+  .atom-work-item .desc7 p {
+    text-transform: capitalize;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 500;
+  }
+  @media screen and (max-width: 426px){
+    .atom-work-item .desc7{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 2;
+    }
+  }
+  @media screen and (min-width: 480px) and (max-width: 1024px){
+    .atom-work-item .desc7 {
+    position: absolute;
+    top: 80%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  } 
+  }
+  /* =========================================================== 
+      07. DTB PORTFOLIO HOVERS seven TEXT END
+  ============================================================ */
