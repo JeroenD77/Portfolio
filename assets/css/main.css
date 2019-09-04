@@ -2902,13 +2902,6 @@ text-align:center;
 
 /*===============================================================================================================================================================*/
 
-
-
-
-
-
-
-
 .about-2 .row {
   width: 1330px;
   margin: 0 auto;
@@ -2921,22 +2914,31 @@ text-align:center;
 .profiel-1,
 .profiel-2,
 .profiel-3{
-  background-image: url(/assets/img/jeroen.jpg);
+    background-image: url(/assets/img/Jeroen_Profile.jpg);
+    margin-bottom: 30px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    display: inline-block;
+  /* background-image: url(/assets/img/jeroen.jpg);
   background-repeat: no-repeat;
-  height: 400px;
-  width: 400px;
+  height: 200px;
+  width: 200px;
   margin: 20px 10px 50px 32%;
   padding: 150px;
-  border-radius: 50%;
+  border-radius: 50%; */
+
 }
 @media only screen and (max-width: 1024px){
 .profiel-1,
 .profiel-2,
 .profiel-3{
-  background-image: url(/assets/img/jeroen.jpg);
-  background-size:300px;
-  width: 300px;
-  height: 300px;
+  background-image: url(/assets/img/Jeroen_Profile.jpg);
+  /* background-size:300px; */
+  width: 200px;
+  height: 200px;
   padding: 0px;
   margin: 40px;
   border-radius: 50%;
