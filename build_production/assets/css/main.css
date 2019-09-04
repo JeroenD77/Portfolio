@@ -17,7 +17,7 @@ html {
   height: 100%;
   width: 100%;
 }
-/* .container {
+/* =.container {
     background-image:url(../img/img-bgs/DTB_bouw_palen.jpg);
 } */
 img {
@@ -228,9 +228,21 @@ hr.dark-small {
   font-size: 75px; 
 
 }
+article{
+  width: 30em;
+  margin: 0 auto;
+  line-height: 1.8;
+  max-width: 100%;
+  font-size: 16px;
+}
 @media (max-width: 767px) {
   .text-header{
     font-size: 24px; 
+  }
+  article{
+    font-size: 16px;
+    padding: 20px;
+    line-height: 1.5;
   }
 } 
 @media (min-width: 767px) {
@@ -2902,13 +2914,6 @@ text-align:center;
 
 /*===============================================================================================================================================================*/
 
-
-
-
-
-
-
-
 .about-2 .row {
   width: 1330px;
   margin: 0 auto;
@@ -2918,27 +2923,27 @@ text-align:center;
   width: 100%;
   }
 }
-.profiel-1,
-.profiel-2,
-.profiel-3{
-  background-image: url(/assets/img/jeroen.jpg);
-  background-repeat: no-repeat;
-  height: 400px;
-  width: 400px;
-  margin: 20px 10px 50px 32%;
-  padding: 150px;
-  border-radius: 50%;
+.profile-1,
+.profile-2,
+.profile-3{
+    background-image: url(/assets/img/Jeroen_Profile.jpg);
+    margin-bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    display: inline-block;
+
 }
 @media only screen and (max-width: 1024px){
-.profiel-1,
-.profiel-2,
-.profiel-3{
-  background-image: url(/assets/img/jeroen.jpg);
-  background-size:300px;
-  width: 300px;
-  height: 300px;
-  padding: 0px;
-  margin: 40px;
+.profile-1,
+.profile-2,
+.profile-3{
+  background-image: url(/assets/img/Jeroen_Profile.jpg);
+  /* background-size:300px; */
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
 }
